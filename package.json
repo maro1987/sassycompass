@@ -1,0 +1,19 @@
+{
+  "name": "sassycompass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maro1987/sassycompass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maro1987/sassycompass/issues"
+  },
+  "homepage": "https://github.com/maro1987/sassycompass#readme"
+}
